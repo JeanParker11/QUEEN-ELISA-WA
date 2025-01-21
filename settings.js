@@ -6,8 +6,8 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || '',
-  ALIVE_REACT: '👋',
+  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==wYvhmdsh0cDFGMLFHStcXLmlkWUlEMRlzNtAzUuZTV1JUU192a0NTSCdTLjkEaKdESzp1Ypwd=88333189822',
+  ALIVE_REACT: '🐼',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
 ⏰ Now time is @time
@@ -22,31 +22,31 @@ module.exports = {
 ☫ Work Type : @worktype
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: process.env.MONGODB_URL|| '',
-  PREFIX: '.$&',
+  ALIVE_MEDIA: 'https://files.catbox.moe/ar3fs0.jpg',
+  MONGODB_URL: process.env.MONGODB_URL|| 'mongodb+srv://parjjean:<@jeanparker1>@cluster0.tp3cg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+  PREFIX: '.',
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
-  BOT_NAME: 'queen elisa',
-  OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
-  WORK_TYPE: 'private', // ex: public/private
+  BOT_NAME: '🐼🩵-MD',
+  OWNER_NAME: '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛',
+  OWNER_NUMBER: '22898133388',
+  SUDO: '22898133388',
+  WORK_TYPE: 'public', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
-  TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nmr-nima.vercell.app',
-  STICKER_AUTHOR: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  STICKER_PACK: 'QUEEN ELISA',
-  REMOVE_BG_APIKEY: '',
+  TIME_ZONE: 'Africa/Togo',
+  CAPTION: '© 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛',
+  STICKER_AUTHOR: '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛',
+  STICKER_PACK: '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜',
+  REMOVE_BG_APIKEY: '81rppYaxs8JbnqADrWW5dppz',
   MAXIMUM_FILESIZE: 90, //size in MB
-  OWNER_R_EMOJI: '💻',
-  ALIVE_AS_GIF: false,//this only work for short videos
-  AUTO_VOICE: true,
+  OWNER_R_EMOJI: '🐼',
+  ALIVE_AS_GIF: true,//this only work for short videos
+  AUTO_VOICE: false,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
-  AUTO_REACT: true,
+  AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: true,// you want WORK_MODE message send
-  AUTO_SEEN_STATUS: true,
+  AUTO_SEEN_STATUS: false,
   BOT_OFFLINE: false,// Bot online status
   READ_MESSAGE: false,
   ANTI_MSG_SPAM: false,
@@ -74,6 +74,6 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
       '❌ My owner has activated auto inbox blocking. So you will be auto blocked after 8 seconds'
   },
   BOT_RULES:
-    "*⚖️ 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
+    "*⚖️ 🐼🩵-MD 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
 }
 
